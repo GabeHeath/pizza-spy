@@ -1,0 +1,16 @@
+{
+  "name": "pizza_spy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabe Heath",
+  "license": "ISC",
+  "dependencies": {
+    "dominos": "^2.1.1",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.4.6"
+  }
+}
